@@ -13,7 +13,7 @@ datasource db {
 model Customer {
   id String @id @default(uuid())
 
-  Purchase Purchase[]
+  purchases Purchase[]
 
   createdAt DateTime @default(now())
   updatedAt DateTime @default(now()) @updatedAt
