@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img alt="Move-it" title="#Move-it" src="web/public/ignite-lab.png" width="200"/>
+  <img alt="Ignite-lab" title="#Ignite-lab" src="web/public/ignite-lab.png" width="200"/>
 </h2>
 
 <h1 align="center">
@@ -18,10 +18,10 @@
 </p>
 
 <h1 align="center">
-  <img width="600" style="border-radius: 10px" height="auto" alt="login" title="Level Up" src="web/public/home.png" />
+  <img width="600" style="border-radius: 10px" height="auto" alt="home" title="Home" src="web/public/home.png" />
 <div style="display: flex; flex-direction: row;">
-  <img width="400" style="border-radius: 10px" height="auto" alt="count" title="Level Up" src="web/public/my-courses.png" />
-  <img width="400" style="border-radius: 10px" height="auto" alt="home" title="Level Up" src="web/public/enrollments.png" />
+  <img width="400" style="border-radius: 10px" height="auto" alt="My courses" title="My courses" src="web/public/my-courses.png" />
+  <img width="400" style="border-radius: 10px" height="auto" alt="Enrollments" title="Enrollments" src="web/public/enrollments.png" />
   <div>
 </h1>
 
@@ -148,7 +148,7 @@ By Rodrigo Santos 👋🏽 Find me:
 
 <h1 align="center">
   <div style="display: flex; flex-direction: row;">
-    <img width="900" style="border-radius: 10px" height="auto" alt="home" title="Level Up" src="web/public/demo.gif" />
+    <img width="900" style="border-radius: 10px" height="auto" alt="Demo" title="Demo" src="web/public/demo.gif" />
   <div>
 </h1>
 
